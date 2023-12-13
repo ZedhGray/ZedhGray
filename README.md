@@ -42,7 +42,6 @@ I am a Full-stack Web Developer
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZedhGray&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/ZedhGray)
 
 ---
 
