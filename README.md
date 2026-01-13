@@ -1,14 +1,14 @@
 <div align="center">
   
 # 👋 Eduardo Hernández Morales
-### Full Stack Developer | Backend Architect | UX Designer
+### Full Stack Developer | UX Designer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-hernandez-885365288/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/grayz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zohanshane@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZedhGray)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+Architect+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;UX%2FUI+Designer+%F0%9F%8E%A8;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;UX%2FUI+Designer+%F0%9F%8E%A8;Graphic+Designer+%F0%9F%8E%A8;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
 
 </div>
 
@@ -25,7 +25,7 @@ public class EduardoHernandez {
     };
     
     private String[] expertise = {
-        "Backend Architecture",
+        "Full Stack Development",
         "API Development", 
         "Database Design",
         "UX/UI Design",
@@ -170,7 +170,7 @@ Desarrollo Front-end y React
 <tr>
 <td width="50%">
 
-### Backend Architecture 🏗️
+### Backend Development 🏗️
 - Diseño de APIs REST seguras y escalables
 - Arquitectura en capas y MVC
 - Integración de bases de datos
