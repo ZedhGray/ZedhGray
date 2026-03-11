@@ -1,14 +1,14 @@
 <div align="center">
   
 # 👋 Eduardo Hernández Morales
-### Full Stack Developer | UX Designer
+### Backend Developer | Java & Spring Boot Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-hernandez-885365288/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/grayz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zohanshane@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZedhGray)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;UX%2FUI+Designer+%F0%9F%8E%A8;Graphic+Designer+%F0%9F%8E%A8;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;Java+%26+Spring+Boot+%E2%98%95;Microservices+%F0%9F%8F%97%EF%B8%8F;Database+Design+%F0%9F%97%84%EF%B8%8F;Process+Automation+%F0%9F%A4%96" alt="Typing SVG" />
 
 </div>
 
@@ -20,16 +20,17 @@ public class EduardoHernandez {
     private String location = "Morelia, Michoacán, México";
     private String education = "Licenciatura en Físico-Matemático";
     private String[] currentRole = {
-        "Full Stack Developer @ García Rines & Neumáticos",
+        "Software Developer @ Lucas Tech",
+        "Junior Software Developer @ García Rines & Neumáticos",
         "External Consultant @ ICOM Sistema"
     };
     
     private String[] expertise = {
-        "Full Stack Development",
-        "API Development", 
-        "Database Design",
-        "UX/UI Design",
-        "Graphic Design"
+        "Backend Development",
+        "API REST Design",
+        "Microservices",
+        "Database Design & Optimization",
+        "Process Automation with Python"
     };
     
     public String getPhilosophy() {
@@ -39,110 +40,86 @@ public class EduardoHernandez {
 }
 ```
 
-**🎯 Especializado en:** Crear soluciones tecnológicas **eficientes, escalables y centradas en el usuario**, uniendo arquitectura sólida, experiencia de usuario, diseño visual y visión de negocio.
+**🎯 Especializado en:** Construir **APIs robustas, microservicios escalables y sistemas empresariales confiables** con Java y Spring Boot, aplicando arquitectura limpia y buenas prácticas de desarrollo.
 
 **🔭 Proyectos actuales:**
-- 🏢 Desarrollando sistemas empresariales para García Rines & Neumáticos
-- 🛠️ Consultoría y optimización de plataforma nacional para ICOM Sistema
-- 📱 Aplicación móvil con búsqueda geolocalizada por GPS
+- 🏗️ Desarrollo de microservicios bajo arquitectura distribuida en Lucas Tech
+- 🏢 Sistema interno de ventas y automatización de procesos para García Rines & Neumáticos
+- 🛠️ Consultoría y optimización de SaaS nacional para ICOM Sistema
 - 🤖 Estudiando Inteligencia Artificial y Machine Learning con Python
 
 ---
 
 ## 💼 Experiencia Profesional
 
+### 🏗️ Lucas Tech
+**Software Developer**  
+*Enero 2025 - Presente | Monterrey, Nuevo León, México*
+
+- 🔧 Colaboración en desarrollo de microservicios bajo arquitectura Spring Boot
+- 🤝 Trabajo con desarrolladores senior en resolución de problemas técnicos
+- ⚙️ Mejora y mantenimiento de servicios backend en arquitectura distribuida
+- 📐 Aplicación de patrones de diseño y buenas prácticas de desarrollo
+
 ### 🏢 García Rines & Neumáticos
-**Full Stack Developer | Software Engineer | Graphic Designer**  
+**Junior Software Developer**  
 *Agosto 2024 - Presente | Zihuatanejo, Guerrero, México*
 
-- 🔧 Diseño e implementación de APIs RESTful con Spring Boot
-- 📊 Desarrollo de servicios backend escalables con PostgreSQL
-- 🎨 Diseño de interfaces con React y UX/UI
-- 🎯 Marketing digital y diseño de marca empresarial
-- 🌐 Creación de páginas web y diseño para redes sociales
+- 🔧 Desarrollo de sistema interno de ventas con Java y base de datos SQL
+- 🤖 Automatización de procesos administrativos mediante Python
+- 📊 Diseño funcional de interfaces para optimizar operaciones del negocio
+- 🗄️ Modelado e integración de bases de datos relacionales
 
 ### 🔍 ICOM Sistema
 **Consultor Externo**  
 *Enero 2024 - Presente | Zihuatanejo, Guerrero, México*
 
-- ✅ Testing y QA de nuevas funcionalidades de la plataforma
-- ⚙️ Optimización de funciones backend para resolver problemas técnicos
-- 🛠️ Desarrollo de soluciones personalizadas según necesidades del cliente
+- ✅ Colaboración en desarrollo y optimización de SaaS líder nacional en POS
+- ⚙️ Automatización de procesos y mejoras funcionales del sistema
+- 🛠️ Resolución de problemas técnicos en el backend
 - 📈 Mejora de estabilidad y escalabilidad del sistema
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### Backend Development
+### Backend Development (Core)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Architecture & Patterns
+![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### Styling & Design
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Mobile Development
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Desktop Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
 
 ### Databases & Backend Services
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Design & Multimedia
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-### Game Development
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### Automation & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
 ---
 
-## 📊 GitHub en Números
+## 📊 GitHub Stats
 
 <div align="center">
-```text
-🔥 5 Contribuciones en 2026
-📚 21 Repositorios Públicos
-⭐ Miembro desde hace 3+ años
-💻 Lenguajes: Java, JavaScript, Python, TypeScript
-```
+
+**Backend Developer**
 
 </div>
 
@@ -159,7 +136,7 @@ Especialización en Física teórica y Matemáticas
 Desarrollo Full Stack intensivo
 
 🌐 **Programación Front-end con React**  
-*Academlo* | 2018  
+*Academlo* | 2022  
 Desarrollo Front-end y React
 
 ---
@@ -172,42 +149,20 @@ Desarrollo Front-end y React
 
 ### Backend Development 🏗️
 - Diseño de APIs REST seguras y escalables
-- Arquitectura en capas y MVC
-- Integración de bases de datos
+- Microservicios
+- Integración y modelado de bases de datos
 - Lógica de negocio compleja
 - Optimización de rendimiento
 
 </td>
 <td width="50%">
 
-### Frontend Development 🎨
-- Aplicaciones web dinámicas con React
-- UX/UI Design enfocado en conversión
-- Diseño responsive y accesible
-- Optimización de rendimiento
-- Prototipado funcional
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Mobile Development 📱
-- Aplicaciones nativas con Kotlin
-- React Native multiplataforma
-- Integración con servicios backend
-- Geolocalización GPS
-- UI/UX móvil
-
-</td>
-<td width="50%">
-
-### Design & Multimedia 🎨
-- Diseño gráfico profesional
-- Branding y marca empresarial
-- Marketing digital
-- Edición de video
-- Diseño 3D con Blender
+### Automatización & Tooling 🤖
+- Scripts de automatización con Python
+- Herramientas internas de gestión
+- Procesamiento y transformación de datos
+- Integración con servicios externos
+- Optimización de procesos operativos
 
 </td>
 </tr>
@@ -219,36 +174,35 @@ Desarrollo Front-end y React
 
 <div align="center">
 
-| 🔨 Backend | 🎨 Frontend | 📱 Mobile | 🖥️ Desktop |
+| 🔨 APIs REST | 🏗️ Microservicios | 🗄️ Bases de Datos | 🤖 Automatización |
 |:---:|:---:|:---:|:---:|
-| APIs REST | React Apps | Android Nativo | Python Apps |
-| Spring Boot | Next.js | React Native | Electron |
-| Microservicios | Vue.js | GPS Integration | PyQt6 |
-| PostgreSQL | TypeScript | UX Móvil | FTP Systems |
-| Node.js | Redux | Apps Empresariales | Windows Apps |
+| Spring Boot | Arquitectura Dist. | PostgreSQL | Python Scripts |
+| Node.js | Docker | MySQL | Procesos Admin. |
+| Autenticación JWT | API Gateway | MongoDB | Integración APIs |
+| Documentación | Load Balancing | Modelado BD | Reportes automáticos |
+| Versionado | Spring Cloud | Query Optimization | Flujos de trabajo |
 
 </div>
 
 ### 💼 ¿Qué puedo hacer por ti?
 ```typescript
 const myServices = {
-    desarrollo: {
-        backend: "APIs REST robustas con Spring Boot y Node.js",
-        frontend: "Aplicaciones React modernas y responsivas",
-        mobile: "Apps Android nativas e híbridas",
-        desktop: "Software multiplataforma con Python/Electron"
-    },
-    diseño: {
-        uxui: "Interfaces intuitivas centradas en el usuario",
-        grafico: "Branding, logos y material publicitario",
-        web: "Diseño web moderno y atractivo",
-        multimedia: "Edición de video y contenido visual"
+    backend: {
+        apis: "APIs REST robustas, seguras y bien documentadas",
+        microservicios: "Arquitectura distribuida con Spring Boot",
+        baseDatos: "Modelado, optimización e integración de bases de datos",
+        automatizacion: "Scripts Python para optimizar procesos operativos"
     },
     consultoría: {
-        arquitectura: "Diseño de sistemas escalables",
-        optimización: "Mejora de rendimiento y código",
-        baseDatos: "Modelado y optimización de BD",
-        devops: "Integración y despliegue continuo"
+        arquitectura: "Diseño de sistemas escalables y mantenibles",
+        optimización: "Mejora de rendimiento y calidad de código",
+        baseDatos: "Auditoría y optimización de consultas y esquemas",
+        devops: "Contenedorización y despliegue continuo"
+    },
+    extras: {
+        frontend: "Integración con React/Next.js cuando el proyecto lo requiere",
+        documentacion: "Documentación técnica clara con Swagger/OpenAPI",
+        testing: "Pruebas unitarias e integración para mayor confiabilidad"
     }
 };
 ```
@@ -261,10 +215,10 @@ const myServices = {
 
 | Proyecto | Tecnologías | Descripción |
 |:---:|:---:|:---:|
-| 🏢 **Sistema Empresarial** | Spring Boot + React + PostgreSQL | Gestión integral para García Rines |
-| 🔍 **Plataforma ICOM** | Java + PostgreSQL | Optimización de sistema nacional |
-| 📱 **App GPS** | Kotlin + Google Maps | Búsqueda geolocalizada en desarrollo |
-| 🤖 **AI Projects** | Python + TensorFlow | Machine Learning y IA |
+| 🏗️ **Microservicios Lucas Tech** | Spring Boot + Docker | Arquitectura distribuida en producción |
+| 🏢 **Sistema de Ventas** | Java + PostgreSQL + Python | Gestión y automatización para García Rines |
+| 🔍 **Plataforma ICOM** | Java + PostgreSQL | Optimización de SaaS nacional de POS |
+| 🤖 **AI Projects** | Python + TensorFlow | Machine Learning y automatización |
 
 </div>
 
@@ -281,9 +235,9 @@ const myServices = {
 
 ### 🎯 Mi Enfoque
 
-**Arquitectura Sólida** • **Experiencia de Usuario** • **Diseño Visual** • **Visión de Negocio**
+**Arquitectura Sólida** • **Código Limpio** • **Rendimiento** • **Escalabilidad**
 
-Construyo productos **confiables**, **escalables** y **rentables**
+Construyo backends **confiables**, **mantenibles** y **listos para producción**
 
 </div>
 
@@ -338,7 +292,7 @@ graph LR
 
 **Desarrollado con ❤️, ☕ y mucho código**
 
-*Eduardo Hernández | Full Stack Developer*
+*Eduardo Hernández | Backend Developer*
 
 ---
 
