@@ -54,7 +54,7 @@ public class EduardoHernandez {
 
 ### 🏗️ Lucas Tech
 **Software Developer**  
-*Enero 2025 - Presente | Monterrey, Nuevo León, México*
+*Enero 2026 - Presente | Monterrey, Nuevo León, México*
 
 - 🔧 Colaboración en desarrollo de microservicios bajo arquitectura Spring Boot
 - 🤝 Trabajo con desarrolladores senior en resolución de problemas técnicos
@@ -72,7 +72,7 @@ public class EduardoHernandez {
 
 ### 🔍 ICOM Sistema
 **Consultor Externo**  
-*Enero 2024 - Presente | Zihuatanejo, Guerrero, México*
+*Enero 2024 - Enero 2024 | Zihuatanejo, Guerrero, México*
 
 - ✅ Colaboración en desarrollo y optimización de SaaS líder nacional en POS
 - ⚙️ Automatización de procesos y mejoras funcionales del sistema
