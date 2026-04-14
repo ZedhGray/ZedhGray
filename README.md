@@ -72,7 +72,7 @@ public class EduardoHernandez {
 
 ### 🔍 ICOM Sistema
 **Consultor Externo**  
-*Enero 2024 - Enero 2024 | Zihuatanejo, Guerrero, México*
+*Enero 2024 - Enero 2025 | Zihuatanejo, Guerrero, México*
 
 - ✅ Colaboración en desarrollo y optimización de SaaS líder nacional en POS
 - ⚙️ Automatización de procesos y mejoras funcionales del sistema
