@@ -72,7 +72,7 @@ public class EduardoHernandez {
 ## 🔍 ICOM Sistema
 
 **Colaboración en Optimización de Sistemas**
-*2024 - 2025*
+*2022 - 2024*
 
 * ⚙️ Mejora y automatización de procesos internos
 * 🛠️ Resolución de problemas backend
